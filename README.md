@@ -1,2 +1,1 @@
-# golang-for-devops-course-aws-ec2
-# golang-for-devops-course-aws-ec2
+# Practice of creating aws ce2 instance
